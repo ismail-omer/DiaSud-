@@ -16,7 +16,10 @@ To create an open-source benchmark that enables researchers to train and evaluat
 
 ## 🧪 Tasks Supported
 
-- Arabic Dialect Identification (Sudanese, Egyptian, Gulf, etc.)
+- 🗣 Dialect Identification (Sudanese, Egyptian, Gulf, etc.)
+- ❤ Sentiment Analysis
+- 🧾 Named Entity Recognition
+- ✍ Text Generation / Translation 
 
 ## 🚀 Get Started
 
