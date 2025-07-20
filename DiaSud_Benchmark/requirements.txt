@@ -1,6 +1,0 @@
-transformers
-torch
-tweepy
-pandas
-scikit-learn
-label-studio
