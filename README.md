@@ -8,7 +8,7 @@ To create an open-source benchmark that enables researchers to train and evaluat
 
 ## 📁 Folder Structure
 
-- data/ – Raw and annotated data
+- data/ – Raw and annotated data for all supported tasks
 - scripts/ – Python scripts for scraping, preprocessing, and training
 - models/ – Pretrained or fine-tuned dialect identification models
 - notebooks/ – Jupyter notebooks for experiments
